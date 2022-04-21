@@ -22,6 +22,5 @@ Olá sou a Angélica, Sejam Bem Vindo! 👋
   <a href="https://www.linkedin.com/in/angelica-romualdo-9322bb51" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href = "mailto:angelicaromualdo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   
-     ![Animação de cobra](https://github.com/geromualdo/geromualdo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
